@@ -9,7 +9,6 @@ This is the central hub for:
 
 PullPro is a developer-focused app designed to streamline pull request reviews and collaboration. Learn more about how PullPro works [here](https://pullpro.dev/help/introduction).
 
----
 
 ## How to Use This Repository
 
@@ -21,7 +20,6 @@ Before creating a new issue, please check the [existing issues](https://github.c
 
 Thanks for helping to improve PullPro!
 
----
 
 ## Additional Resources
 
