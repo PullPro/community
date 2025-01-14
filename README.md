@@ -13,8 +13,8 @@ PullPro is a developer-focused app designed to streamline pull request reviews a
 ## How to Use This Repository
 
 1. **Reporting Bugs**: If you’ve found a bug, please [open a new issue](https://github.com/PullPro/community/issues/new/choose) using the **Bug Report** template.
-2. **Requesting Features**: Have an idea for a new feature? Share your thoughts by [opening a feature request](https://github.com/PullPro/community/issues/new/choose).
-3. **General Feedback**: We’d love to hear your feedback! You can use the [Feature Request template](https://github.com/PullPro/community/issues/new/choose) or post in the Discussions section (if enabled).
+2. **Requesting Features**: Have an idea for a new feature? Share your thoughts in the [ideas discussion](https://github.com/PullPro/community/discussions/categories/ideas).
+3. **General Feedback**: Your feedback is welcome! You can post in the [general discussion](https://github.com/PullPro/community/discussions/categories/general).
 
 Before creating a new issue, please check the [existing issues](https://github.com/PullPro/community/issues) to avoid duplicates.
 
